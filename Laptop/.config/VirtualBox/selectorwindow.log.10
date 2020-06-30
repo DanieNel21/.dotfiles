@@ -1,0 +1,18 @@
+00:00:01.340143 VirtualBox GUI VM Selector Window 6.1.4 r136177 linux.amd64 (Feb 20 2020 13:12:18) release log
+00:00:01.340145 Log opened 2020-02-25T06:59:17.478958000Z
+00:00:01.340146 Build Type: release
+00:00:01.340147 OS Product: Linux
+00:00:01.340148 OS Release: 5.5.5-arch1-1
+00:00:01.340149 OS Version: #1 SMP PREEMPT Thu, 20 Feb 2020 18:23:09 +0000
+00:00:01.340166 DMI Product Name: Latitude E6540
+00:00:01.340184 DMI Product Version: 01
+00:00:01.340188 Firmware type: UEFI
+00:00:01.340402 Secure Boot: Disabled
+00:00:01.340444 Host RAM: 3842MB (3.7GB) total, 2488MB (2.4GB) available
+00:00:01.340450 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.340451 Process ID: 4584
+00:00:01.340451 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.340487 Qt version: 5.14.1
+00:00:01.533146 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.698134 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 4x4 x 1912x1037
+00:00:02.850385 GUI: UIMediumEnumerator: Medium-enumeration finished!

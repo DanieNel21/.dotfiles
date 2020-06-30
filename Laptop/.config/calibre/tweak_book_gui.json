@@ -1,0 +1,189 @@
+{
+  "check-book-splitter-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
+  }, 
+  "custom_colors_for_color_dialog": [
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ], 
+    [
+      255, 
+      255, 
+      255, 
+      255
+    ]
+  ], 
+  "dock_bottom_left": null, 
+  "dock_bottom_right": null, 
+  "dock_top_left": null, 
+  "dock_top_right": null, 
+  "editor_theme": "solarized-dark", 
+  "find-widget-state": {
+    "case_sensitive": false, 
+    "direction": "down", 
+    "dot_all": false, 
+    "mode": "normal", 
+    "where": "current", 
+    "wrap": true
+  }, 
+  "import-foreign-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAK1AAABngAABMIAAAJLAAACtwAAAZ4AAATAAAACSQAAAAAAAAAAB4AAAAK3AAABngAABMAAAAJJ"
+  }, 
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAAEAAAABAAAA70AAAQQAAAABAAAAAQAAAO9AAAEEAAAAAAAAAAAB4AAAAAEAAAABAAAA70AAAQQ"
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAABGAAADvfwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAADoAAABZAAAAWQD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawEAAACZAAADXgAAAFkA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHUA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIkA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAd4A////AAAAAQAAAakAAAO9/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAOgAAA70AAABAAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABZAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAAAb8AAAO9AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  }, 
+  "preferences_geom": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAQHAAAAuwAAByoAAAMUAAAECQAAALsAAAcoAAADEgAAAAAAAAAAB4AAAAQJAAAAuwAABygAAAMS"
+  }, 
+  "preview_standard_font_family": null, 
+  "recent-books": [
+    "/tmp/mozilla_danie0/Dan Brown - Inferno (2012, Transworld Publishers) - libgen.lc.epub", 
+    "/home/danie/Downloads/Stephen Mitford Goodson - A History of Central Banking and the Enslavement of Mankind-Black House (2017).epub"
+  ], 
+  "reports-dialog-geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAO6AAAAuwAAB3MAAAMUAAADvAAAALsAAAdxAAADEgAAAAAAAAAAB4AAAAO8AAAAuwAAB3EAAAMS"
+  }, 
+  "reports-ui-state": {
+    "all-files-table": {
+      "__class__": "bytearray", 
+      "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAEAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAEAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAA"
+    }, 
+    "chars-table": {
+      "__class__": "bytearray", 
+      "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAEAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAEAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAA"
+    }, 
+    "classes-sort-ascending": true, 
+    "classes-sort-on-counts": true, 
+    "css-sort-ascending": true, 
+    "css-sort-on-counts": true, 
+    "image-files-table": {
+      "__class__": "bytearray", 
+      "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAEAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAEAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAA"
+    }, 
+    "links-table": {
+      "__class__": "bytearray", 
+      "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAlgAAAAGAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAGAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAA"
+    }, 
+    "links-view-splitter": {
+      "__class__": "bytearray", 
+      "__value__": "AAAA/wAAAAEAAAAC//////////8B/////wEAAAACAA=="
+    }, 
+    "report-page": -1, 
+    "splitter-state": {
+      "__class__": "bytearray", 
+      "__value__": "AAAA/wAAAAEAAAACAAABAAABJ9cA/////wEAAAABAA=="
+    }, 
+    "words-table": {
+      "__class__": "bytearray", 
+      "__value__": "AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAASwAAAADAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAADAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAA"
+    }
+  }, 
+  "saved_seaches_state": {
+    "direction": "down", 
+    "where": "current", 
+    "wrap": true
+  }, 
+  "search-panel-visible": false, 
+  "text_search_widget_state": {
+    "case_sensitive": false, 
+    "dot_all": true, 
+    "mode": "normal", 
+    "where": "current"
+  }
+}

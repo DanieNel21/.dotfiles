@@ -1,0 +1,6 @@
+add
+m
+p
+add ~/Music/
+fset ogg=filename="*.ogg"
+add ~/

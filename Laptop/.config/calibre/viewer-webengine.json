@@ -1,0 +1,43 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAPCAAAABAAAB3sAAAQaAAADwgAAAAQAAAd7AAAEGgAAAAAAAAAAB4AAAAPCAAAABAAAB3sAAAQa"
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAEF/wCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAEFwAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAkgD///8AAAABAAABAAAABBf8AgAAAAP7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAAAABBcAAADFAP////sAAAAWAGwAbwBvAGsAdQBwAC0AZABvAGMAawAAAAAA/////wAAAF8A////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD///8AAAO6AAAEFwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAAAAAABAAAAHgBhAGMAdABpAG8AbgBzAF8AdABvAG8AbABiAGEAcgIAAAAA/////wAAAAAAAAAA"
+  }, 
+  "old_prefs_migrated": true, 
+  "session_data": {
+    "base_font_size": 18, 
+    "controls_help_shown_count": 2, 
+    "current_color_scheme": "sepia-dark", 
+    "standalone_font_settings": {}, 
+    "standalone_misc_settings": {
+      "remember_last_read": true, 
+      "remember_window_geometry": false, 
+      "save_annotations_in_ebook": true, 
+      "singleinstance": false
+    }, 
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Object-Oriented Software Engineering  An Agile Unified Methodology 1(2013, McGraw-Hill)"
+        ], 
+        "key": "/home/danie/Downloads/David C. Kung - Object-Oriented Software Engineering_ An Agile Unified Methodology 1(2013, McGraw-Hill).djvu", 
+        "pathtoebook": "/home/danie/Downloads/David C. Kung - Object-Oriented Software Engineering_ An Agile Unified Methodology 1(2013, McGraw-Hill).djvu", 
+        "timestamp": "2020-02-10T11:49:34.043Z", 
+        "title": "David C. Kung"
+      }, 
+      {
+        "authors": [
+          "Stephen Goodson"
+        ], 
+        "key": "/home/danie/Calibre Library/Stephen Goodson/A History of Central Banking and the Enslavement of Mankind (2)/A History of Central Banking and the Ensla - Stephen Goodson.epub", 
+        "pathtoebook": "/home/danie/Calibre Library/Stephen Goodson/A History of Central Banking and the Enslavement of Mankind (2)/A History of Central Banking and the Ensla - Stephen Goodson.epub", 
+        "timestamp": "2019-11-18T14:03:13.759Z", 
+        "title": "A History of Central Banking and the Enslavement of Mankind"
+      }
+    ]
+  }
+}

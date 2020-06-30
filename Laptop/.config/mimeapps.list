@@ -1,0 +1,21 @@
+[Added Associations]
+text/plain=mousepad.desktop;vim.desktop;code-oss.desktop;
+application/pdf=firefox.desktop;
+text/x-c++src=mousepad.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+application/x-shellscript=mousepad.desktop;
+text/x-makefile=mousepad.desktop;code-oss.desktop;
+text/x-tex=code-oss.desktop;mousepad.desktop;
+text/html=firefox.desktop;mousepad.desktop;calibre-ebook-edit.desktop;
+application/sql=mousepad.desktop;
+text/x-java=mousepad.desktop;
+application/x-trash=mousepad.desktop;
+text/x-csrc=mousepad.desktop;
+image/vnd.djvu+multipage=djvulibre-djview4.desktop;
+application/vnd.ms-publisher=mousepad.desktop;
+text/vnd.qt.linguist=mousepad.desktop;
+application/json=mousepad.desktop;
+
+[Default Applications]
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/postman=Postman.desktop
